@@ -35,7 +35,7 @@ This is a very important step or else the program will show errors.
 
 --> More updates will be made to the program later on.
 
-# Version - 1.1
+# Version - 1.1 (Only For Python3 )
 
 Release Date : 22nd March 2021
 
@@ -46,3 +46,5 @@ Release Date : 22nd March 2021
 --> Added colors to make the program fancy.
 
 --> The system info display has been added which shows the OS, system and python version being used.
+
+**This update is only applicable to Python 3 and not Python 2**
