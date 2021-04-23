@@ -3,6 +3,11 @@ import os
 import time
 import platform
 from colorama import *
+os.system('clear')
+if os.geteuid() != 0:
+    exit("You need to have root privileges to run this script."
+    "\nPlease try again, this time using 'su -', and entering your root password"
+    '\nExiting the Program')
 print(Fore.CYAN + "Mac Changer")
 print(Fore.CYAN + "Mac Changer for Python3")
 print(Fore.GREEN + '=================================')
