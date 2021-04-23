@@ -1,6 +1,11 @@
 import subprocess
 import os
 import time
+os.system('clear')
+if os.geteuid() != 0:
+    exit("You need to have root privileges to run this script."
+    "\nPlease try again, this time using 'su -', and entering your root password"
+    '\nExiting the Program')
 print("Mac Changer")
 subprocess.call('ifconfig')
 print("Mac Changer for Python2")
