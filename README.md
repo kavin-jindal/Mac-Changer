@@ -2,7 +2,7 @@
 
 Released : 8th March 2021
 
-Last Updated : 22nd March 2021
+Last Updated : 23nd April 2021
 
 This is a very basic Mac Address Changer coded in Python. It can easily change your mac address
 
@@ -35,7 +35,7 @@ This is a very important step or else the program will show errors.
 
 --> More updates will be made to the program later on.
 
-# Version - 1.1 (Only For Python3 )
+# Version - 1.1.0 (Only For Python3 )
 
 Release Date : 22nd March 2021
 
@@ -48,3 +48,8 @@ Release Date : 22nd March 2021
 --> The system info display has been added which shows the OS, system and python version being used.
 
 **This update is only applicable to Python 3 and not Python 2**
+
+# Version 1.1.1
+
+Added root user tracker. With this the program won't respond if the user isn't having root privileges. This update is applicable to both Python 2 and Python 3 versions.
+
