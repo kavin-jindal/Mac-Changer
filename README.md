@@ -2,7 +2,7 @@
 
 Released : 8th March 2021
 
-Last Updated : 23nd April 2021
+Last Updated : 23rd April 2021
 
 This is a very basic Mac Address Changer coded in Python. It can easily change your mac address
 
